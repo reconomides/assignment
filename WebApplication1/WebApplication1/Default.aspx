@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>AUTOMIC DEV OPS 7</h1>
+        <h1>AUTOMIC DEV OPS 8</h1>
         <p class="lead">Add some text</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
